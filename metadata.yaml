@@ -1,0 +1,32 @@
+_repo: -tudes-Litt-raires--dix-huiti-me-si-cle_12749
+_version: 0.0.1
+alternative_title: Études Littéraires - XVIIIe siècle.
+creator:
+  author:
+    agent_name: Faguet, Émile
+    aliases:
+    - Faguet, Auguste-Émile
+    - Faguet, Emile
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '4528'
+    url: http://www.gutenberg.org/2009/agents/4528
+    wikipedia: http://en.wikipedia.org/wiki/Émile_Faguet
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12749'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 18th century -- History and criticism'
+- GITenberg
+tableOfContents: Pierre Bayle -- Fontenelle -- Le Sage -- Marivaux -- Montesquieu
+  -- Voltaire -- Diderot -- J.J. Rousseau -- Buffon -- Mirabeau -- André Chénier.
+title: Études Littéraires; dix-huitième siècle
+url: http://www.gutenberg.org/ebooks/12749
