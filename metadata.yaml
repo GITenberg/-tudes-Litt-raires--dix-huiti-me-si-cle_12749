@@ -1,6 +1,9 @@
 _repo: -tudes-Litt-raires--dix-huiti-me-si-cle_12749
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Études Littéraires - XVIIIe siècle.
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Faguet, Émile
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4528
     wikipedia: http://en.wikipedia.org/wiki/Émile_Faguet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12749#-tudes-Litt-raires--dix-huiti-me-si-cle
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-06-26'
 gutenberg_type: Text
